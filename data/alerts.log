@@ -1,0 +1,9 @@
+timestamp	severity	vital	value	message
+t010	WARNING	SpO₂	92%	Oxygen saturation is borderline low (90–92%).
+t012	CRITICAL	SpO₂	88%	Oxygen saturation is critically low (< 90%).
+t018	WARNING	Heart Rate	45 bpm	Heart rate is low (40–49 bpm).
+t022	CRITICAL	Heart Rate	145 bpm	Heart rate is dangerously high (> 130 bpm).
+t028	WARNING	Temperature	100.8°F	Fever range (100.4–103°F).
+t030	CRITICAL	Temperature	104.2°F	Temperature is critically high (> 103°F).
+t036	WARNING	Blood Pressure	155/77 mmHg	Blood pressure is elevated (140–179 systolic or 90–119 diastolic).
+t038	CRITICAL	Blood Pressure	182/121 mmHg	Blood pressure is critically high (>=180 systolic or >=120 diastolic).
